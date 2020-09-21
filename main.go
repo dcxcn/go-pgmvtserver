@@ -1,10 +1,10 @@
 package main
 
 import (
-	"pg_postgis_mvt/app/router"
-	"pg_postgis_mvt/config"
-	"pg_postgis_mvt/app/middleware"
 	"github.com/kataras/iris/v12"
+	"go-pgmvtserver/app/middleware"
+	"go-pgmvtserver/app/router"
+	"go-pgmvtserver/config"
 )
 
 func main() {

@@ -2,7 +2,7 @@ package controller
 
 import (
 	"fmt"
-	"pg_postgis_mvt/app/service"
+	"go-pgmvtserver/app/service"
 
 	"github.com/kataras/iris/v12"
 )

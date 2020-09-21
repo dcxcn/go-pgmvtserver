@@ -2,8 +2,8 @@ package service
 
 import (
 	"fmt"
-	"pg_postgis_mvt/database"
-	"pg_postgis_mvt/util"
+	"go-pgmvtserver/database"
+	"go-pgmvtserver/util"
 )
 
 type mvtService struct {

@@ -1,4 +1,4 @@
-module pg_postgis_mvt
+module go-pgmvtserver
 
 go 1.13
 

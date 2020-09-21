@@ -1,9 +1,9 @@
 package database
 
 import (
+	"go-pgmvtserver/config"
 	// "database/sql"
 	"log"
-	"pg_postgis_mvt/config"
 	"sync"
 
 	_ "github.com/lib/pq"

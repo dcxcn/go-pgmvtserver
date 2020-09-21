@@ -1,7 +1,7 @@
 package router
 
 import (
-	"pg_postgis_mvt/app/controller"
+	"go-pgmvtserver/app/controller"
 
 	"github.com/kataras/iris/v12"
 )
